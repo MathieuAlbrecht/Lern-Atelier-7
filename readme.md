@@ -4,11 +4,14 @@
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Welches der Module 231, 320, 322 scheint Ihnen besonders wichtig? Wo brauchen Sie am meisten Übung?
-3. Was wäre ein geeignetes Projekt für diese LP6? Würde sich dieses auch eignen, um es Ihrer Bewerbung hinzuzufügen?
+1. Ich stehe aktuell sehr gut mit meinen Noten und sollte im Modul 231 eine Note 5,5 oder 6 erreichen womit ich mein Ziel erreicht habe.
+2. Am Anfang der LP-7 möchte ich mich noch auf das Modul 320 Konzentrieren da es für mich aktuell das schwierigste Modul ist.
 
 ## 23.8
+
+- [ ] M320 Auftrag 4214 Klasse Becher
+- [ ] M320 Auftrag 4214 Klasse Wuerfel
+
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
