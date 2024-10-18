@@ -1,6 +1,6 @@
-# Lern-Periode 6
+# Lern-Periode 7
 
-12.8 bis 27.9.2024
+18.10 bis 20.12.2024
 
 ## Grob-Planung
 
