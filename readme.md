@@ -16,8 +16,12 @@
 
 ## 25.10
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Schere Stein Papier spiel M294
+- [ ] M320 Repetition
+
+
+## 01.11
+- [ ] UML-Diagramm in C#
+- [ ] M320 Repetition Vererbung, Dokumentation
 
 
