@@ -21,7 +21,10 @@
 
 
 ## 01.11
-- [ ] UML-Diagramm in C#
+- [ ] UML-Diagramm in C# implementieren
 - [ ] M320 Repetition Vererbung, Dokumentation
 
+## 08.11
+- [ ] M294 LA_8439
+- [ ] DOM Manipulation verstehen
 
