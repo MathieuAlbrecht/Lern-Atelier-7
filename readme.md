@@ -34,6 +34,6 @@ M450:
 - [x] DOM Manipulation verstehen.
 
 ## 15.11
-- [ ] LA_294_8431 clientsiderouting
-- [ ] LA_294_8471  JWT
+- [x] LA_294_8431 clientsiderouting
+- [ ] LA_294_8471  JWT(nur Präsentation)
 
