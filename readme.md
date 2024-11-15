@@ -29,6 +29,6 @@
 - [ ] DOM Manipulation verstehen.
 
 ## 15.11
-- [ ] LA_294_8439 CRUD Operationen
+- [ ] LA_294_8430 clientsiderouting
 - [ ] LA_294_8471  JWT
 
