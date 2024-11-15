@@ -26,5 +26,9 @@
 
 ## 08.11
 - [ ] M294 LA_8439
-- [ ] DOM Manipulation verstehen
+- [ ] DOM Manipulation verstehen.
+
+## 15.11
+- [ ] LA_294_8439 CRUD Operationen
+- [ ] LA_294_8471  JWT
 
