@@ -38,7 +38,7 @@ M450:
 - [ ] LA_294_8471  JWT(nur Präsentation)
 
 ## 22.11
-- [ ] LA_294_8045 Input Validieren
+- [x] LA_294_8045 Input Validieren
 - [ ] LA_294_0715 Aufgabe 6-7
       
 
