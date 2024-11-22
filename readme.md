@@ -39,6 +39,6 @@ M450:
 
 ## 22.11
 - [x] LA_294_8045 Input Validieren
-- [ ] LA_294_0715 Aufgabe 6-7
+- [ ] LA_294_0715 Aufgabe 6-10
       
 
