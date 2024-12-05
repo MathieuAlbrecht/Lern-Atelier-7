@@ -42,3 +42,6 @@ M450: 5.5
 - [x] LA_294_0715 Aufgabe 6-10
       
 
+## 29.12
+- [x] LB 346 2.1
+- [x] JWT repetition
