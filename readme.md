@@ -45,3 +45,6 @@ M450: 5.5
 ## 29.12
 - [x] LB 346 2.1
 - [x] JWT repetition
+
+## 06.12
+- [ ] Advent of Code
