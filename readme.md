@@ -50,4 +50,7 @@ M450: 5.5
 - [x] Advent of Code(Day 1-2)
 
 ## 13.12
-- [ ] Advent of Code(Day 4)
+- [x] Advent of Code(Day 4)
+
+## 20.12
+- [ ] Advent of Code(Day 5)
